@@ -1,15 +1,41 @@
 GBDT:
-n_estimators = 540
-max_depth = 19
-max_features = sqrt
-min_samples_leaf = 1
-min_samples_split = 2
-learning_rate = 0.05
+  n_estimators = 540
+  max_depth = 19
+  max_features = sqrt
+  min_samples_leaf = 1
+  min_samples_split = 2
+  learning_rate = 0.05
 
 RF:
-n_estimators=300
-max_depth=21
-min_samples_leaf=2
-max_features=sqrt
-bootstrap=True
-oob_score=True
+  n_estimators=300
+  max_depth=21
+  min_samples_leaf=2
+  max_features=sqrt
+  bootstrap=True
+  oob_score=True
+
+Stacking：
+  estimators：
+    LR：penalty='l1'; solver='liblinear'; max_iter=10000
+    DT：criterion='gini'
+    SVC：kernel='linear'; C=0.025;probability=True
+  final_estimator:
+    n_estimators=1000; max_depth=6; min_samples_leaf=1; max_features= sqrt
+  
+AdaBoost：
+  n_estimators=500
+  max_depth=3
+  min_samples_leaf=2
+
+XGBoost：
+  n_estimators=300
+  max_depth=13
+  learning_rate=0.01
+
+Bagging:
+  n_estimators=1000,
+  max_samples=0.8,
+  max_features=0.8,
+  bootstrap=True,
+  bootstrap_features=False,
+  n_jobs=-1,
