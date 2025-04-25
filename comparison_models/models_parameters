@@ -32,10 +32,4 @@ XGBoost：
   max_depth=13
   learning_rate=0.01
 
-Bagging:
-  n_estimators=1000,
-  max_samples=0.8,
-  max_features=0.8,
-  bootstrap=True,
-  bootstrap_features=False,
-  n_jobs=-1,
+
