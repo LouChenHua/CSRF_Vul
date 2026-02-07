@@ -1,1 +1,1744 @@
-
+resplen	contentType	reqlen	createinReq	addinReq	setinReq	deleteinReq	updateinReq	removeinReq	friendinReq	settinginReq	passwordinReq	tokeninReq	changeinReq	actioninReq	payinReq	logininReq	logoutinReq	postinReq	commentinReq	followinReq	subscribeinReq	signinReq	numOfParams	isReferer	isHttpOnly	isGET	isPOST	Danger
+14399	 text/html; charset=UTF-8	1336	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+2274	 text/html; charset=UTF-8	1334	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+8885	 text/html; charset=UTF-8	857	0	0	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	1
+8665	 text/html; charset=UTF-8	1529	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+2276	 text/html; charset=UTF-8	1474	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	1	0	0	0	0	2	1	0	1	0	1
+2274	 text/html; charset=UTF-8	1391	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+23170	 text/html; charset=UTF-8	814	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2292	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2297	 text/html; charset=UTF-8	1428	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2289	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2290	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2295	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2290	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2290	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2287	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1405	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2291	 text/html; charset=UTF-8	1422	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	0
+2295	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2290	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2295	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2289	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2304	 text/html; charset=UTF-8	1431	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2309	 text/html; charset=UTF-8	1436	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2307	 text/html; charset=UTF-8	1434	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1440	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2307	 text/html; charset=UTF-8	1434	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2296	 text/html; charset=UTF-8	1427	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2306	 text/html; charset=UTF-8	1432	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2306	 text/html; charset=UTF-8	1432	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+9256	 text/html; charset=UTF-8	813	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2291	 text/html; charset=UTF-8	1417	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2293	 text/html; charset=UTF-8	1423	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2291	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2323	 text/html; charset=UTF-8	1444	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+9451	 text/html; charset=UTF-8	824	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+24152	 text/html; charset=UTF-8	835	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	0	0	1	0	1
+24355	 text/html; charset=UTF-8	1789	0	1	1	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1	1
+2305	 text/html; charset=UTF-8	1889	0	1	1	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+2317	 text/html; charset=UTF-8	1461	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2315	 text/html; charset=UTF-8	1437	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2315	 text/html; charset=UTF-8	1437	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2316	 text/html; charset=UTF-8	1438	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2316	 text/html; charset=UTF-8	1438	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2323	 text/html; charset=UTF-8	1485	0	0	1	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+2323	 text/html; charset=UTF-8	1485	0	0	1	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+2316	 text/html; charset=UTF-8	1438	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2316	 text/html; charset=UTF-8	1438	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2302	 text/html; charset=UTF-8	1439	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2300	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2300	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2300	 text/html; charset=UTF-8	1437	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2296	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2326	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+2317	 text/html; charset=UTF-8	1430	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2311	 text/html; charset=UTF-8	1424	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	2	1	0	1	0	0
+2313	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2303	 text/html; charset=UTF-8	1416	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1405	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7478	 text/html; charset=UTF-8	824	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2290	 text/html; charset=UTF-8	1598	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+7901	 text/html; charset=UTF-8	813	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2291	 text/html; charset=UTF-8	1417	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+5632	 text/html; charset=UTF-8	823	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2308	 text/html; charset=UTF-8	1444	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2319	 text/html; charset=UTF-8	1455	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2313	 text/html; charset=UTF-8	1449	0	0	1	0	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2315	 text/html; charset=UTF-8	1451	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2301	 text/html; charset=UTF-8	1437	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2300	 text/html; charset=UTF-8	1436	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2299	 text/html; charset=UTF-8	1435	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+7908	 text/html; charset=UTF-8	820	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2301	 text/html; charset=UTF-8	1427	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2304	 text/html; charset=UTF-8	1430	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2319	 text/html; charset=UTF-8	1481	0	0	1	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1439	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1439	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2312	 text/html; charset=UTF-8	1434	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2314	 text/html; charset=UTF-8	1436	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2314	 text/html; charset=UTF-8	1436	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2318	 text/html; charset=UTF-8	1480	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+2304	 text/html; charset=UTF-8	1430	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2298	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+9750	 text/html; charset=UTF-8	813	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2291	 text/html; charset=UTF-8	1417	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1405	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2285	 text/html; charset=UTF-8	1415	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2297	 text/html; charset=UTF-8	1427	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2290	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2286	 text/html; charset=UTF-8	1416	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2290	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2295	 text/html; charset=UTF-8	1425	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2287	 text/html; charset=UTF-8	1417	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2290	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2293	 text/html; charset=UTF-8	1423	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2293	 text/html; charset=UTF-8	1600	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+6531	 text/html; charset=UTF-8	850	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	0	0	1	0	1
+41384	 text/html; charset=UTF-8	850	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	0	0	1	0	1
+2341	 text/html; charset=UTF-8	1496	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2354	 text/html; charset=UTF-8	1509	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2358	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2359	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2356	 text/html; charset=UTF-8	1511	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2359	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2357	 text/html; charset=UTF-8	1512	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2357	 text/html; charset=UTF-8	1512	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2364	 text/html; charset=UTF-8	1519	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2354	 text/html; charset=UTF-8	1509	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2356	 text/html; charset=UTF-8	1511	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2352	 text/html; charset=UTF-8	1507	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2359	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2365	 text/html; charset=UTF-8	1520	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2355	 text/html; charset=UTF-8	1510	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2353	 text/html; charset=UTF-8	1508	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2355	 text/html; charset=UTF-8	1510	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2363	 text/html; charset=UTF-8	1518	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2352	 text/html; charset=UTF-8	1507	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2362	 text/html; charset=UTF-8	1517	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2352	 text/html; charset=UTF-8	1507	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2356	 text/html; charset=UTF-8	1511	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2364	 text/html; charset=UTF-8	1519	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2358	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2354	 text/html; charset=UTF-8	1509	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2358	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2351	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2358	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2356	 text/html; charset=UTF-8	1511	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2354	 text/html; charset=UTF-8	1509	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2355	 text/html; charset=UTF-8	1510	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2356	 text/html; charset=UTF-8	1511	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2358	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2356	 text/html; charset=UTF-8	1511	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2354	 text/html; charset=UTF-8	1509	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2352	 text/html; charset=UTF-8	1507	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2351	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2355	 text/html; charset=UTF-8	1510	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2351	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+2361	 text/html; charset=UTF-8	1516	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2359	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+2285	 text/html; charset=UTF-8	1415	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2290	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+10889	 text/html; charset=UTF-8	812	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2308	 text/html; charset=UTF-8	1511	0	0	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+2290	 text/html; charset=UTF-8	1415	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2296	 text/html; charset=UTF-8	1425	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2298	 text/html; charset=UTF-8	1415	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2286	 text/html; charset=UTF-8	1415	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2296	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2295	 text/html; charset=UTF-8	1424	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2285	 text/html; charset=UTF-8	1414	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2288	 text/html; charset=UTF-8	1417	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2285	 text/html; charset=UTF-8	1414	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2284	 text/html; charset=UTF-8	1401	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2284	 text/html; charset=UTF-8	1594	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+2299	 text/html; charset=UTF-8	1424	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2317	 text/html; charset=UTF-8	1478	0	0	1	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+45346	 text/html; charset=UTF-8	1451	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+2310	 text/html; charset=UTF-8	5216	0	1	1	0	1	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+2317	 text/html; charset=UTF-8	1438	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2301	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2315	 text/html; charset=UTF-8	1436	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+2302	 text/html; charset=UTF-8	1415	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2301	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2294	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+2294	 text/html; charset=UTF-8	1574	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+2320	 text/html; charset=UTF-8	1437	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+265	 text/html; charset=UTF-8	1546	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	1	0	0	0	0	4	1	0	1	0	1
+686	 text/javascript	644	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0
+62257	 text/javascript	725	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2800	 text/javascript	706	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2011	 text/javascript	706	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+2062	 text/html	1423	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	1
+2042	 text/html	1380	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	1
+2186	 text/html	1423	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	1
+30212	 text/html; charset=UTF-8	1496	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+52967	 text/html; charset=UTF-8	2178	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+11465	 text/html; charset=UTF-8	1436	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1587	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1587	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52694	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52694	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52694	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52694	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1587	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1589	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1537	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1587	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1587	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+52693	 text/html; charset=UTF-8	1587	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1535	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+11465	 text/html; charset=UTF-8	1446	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12943	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12943	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12943	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12853	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12937	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12941	 text/html; charset=UTF-8	1514	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+12939	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12939	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12943	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12943	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+12943	 text/html; charset=UTF-8	1513	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+33273	 text/html; charset=UTF-8	1558	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+23805	 text/html; charset=UTF-8	1558	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+23808	 text/html; charset=UTF-8	1558	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+23808	 text/html; charset=UTF-8	1558	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+32075	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+23900	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+23905	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+23905	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+33376	 text/html; charset=UTF-8	1452	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+25203	 text/html; charset=UTF-8	1452	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+25209	 text/html; charset=UTF-8	1452	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+25210	 text/html; charset=UTF-8	1452	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+25222	 text/html; charset=UTF-8	1452	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+33373	 text/html; charset=UTF-8	1452	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+23904	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+23907	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+23907	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+32080	 text/html; charset=UTF-8	1506	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+30212	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+30112	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+27613	 text/html; charset=UTF-8	1492	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+27626	 text/html; charset=UTF-8	1438	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+30212	 text/html; charset=UTF-8	1492	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+27626	 text/html; charset=UTF-8	1438	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+27641	 text/html; charset=UTF-8	1492	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+30212	 text/html; charset=UTF-8	1417	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+279	 text/html	1463	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+10757	 text/html; charset=UTF-8	1612	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+10357	 text/html; charset=UTF-8	1719	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+13067	 text/html; charset=UTF-8	1415	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+10914	 text/html; charset=UTF-8	1386	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+12798	 text/html; charset=UTF-8	1342	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+13178	 text/html; charset=UTF-8	1398	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+12934	 text/html; charset=UTF-8	1521	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+29315	 text/html	1528	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+19385	 text/html; charset=UTF-8	778	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+21000	 text/html; charset=UTF-8	1597	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+29516	 text/html	1604	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	6	1	0	1	0	0
+20331	 text/html; charset=UTF-8	1510	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+20996	 text/html; charset=UTF-8	1593	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29540	 text/html	1600	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+20329	 text/html; charset=UTF-8	1508	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20998	 text/html; charset=UTF-8	1595	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29519	 text/html	1602	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+20330	 text/html; charset=UTF-8	1509	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20332	 text/html; charset=UTF-8	1508	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20997	 text/html; charset=UTF-8	1595	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29518	 text/html	1604	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+20332	 text/html; charset=UTF-8	1508	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20330	 text/html; charset=UTF-8	1509	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20994	 text/html; charset=UTF-8	1591	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29512	 text/html	1598	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+20328	 text/html; charset=UTF-8	1507	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20332	 text/html; charset=UTF-8	1407	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+20354	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+20352	 text/html; charset=UTF-8	1460	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+20352	 text/html; charset=UTF-8	1522	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20350	 text/html; charset=UTF-8	1458	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20353	 text/html; charset=UTF-8	1524	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20351	 text/html; charset=UTF-8	1459	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20353	 text/html; charset=UTF-8	1458	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20351	 text/html; charset=UTF-8	1524	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20353	 text/html; charset=UTF-8	1458	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20351	 text/html; charset=UTF-8	1524	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20351	 text/html; charset=UTF-8	1520	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20349	 text/html; charset=UTF-8	1457	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+20352	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+20352	 text/html; charset=UTF-8	1405	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18993	 text/html; charset=UTF-8	1407	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+18995	 text/html; charset=UTF-8	1502	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18993	 text/html; charset=UTF-8	1503	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+19661	 text/html; charset=UTF-8	1599	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29386	 text/html	1606	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+18991	 text/html; charset=UTF-8	1501	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+19663	 text/html; charset=UTF-8	1601	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29362	 text/html	1608	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+18992	 text/html; charset=UTF-8	1502	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18994	 text/html; charset=UTF-8	1501	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+19662	 text/html; charset=UTF-8	1601	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29366	 text/html	1610	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+18994	 text/html; charset=UTF-8	1501	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+19662	 text/html; charset=UTF-8	1601	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29365	 text/html	1610	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+19659	 text/html; charset=UTF-8	1597	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+29359	 text/html	1604	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+18990	 text/html; charset=UTF-8	1500	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+19610	 text/html; charset=UTF-8	1521	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+29300	 text/html	1528	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+14399	 text/html; charset=UTF-8	1411	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+23347	 text/javascript	1473	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+1218	 text/javascript	1437	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+16000	 text/javascript	730	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0
+16000	 text/javascript	1415	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	1	1	0	1	0	0
+2339	 text/javascript	698	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+9594	 text/javascript	648	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	1
+89767	 text/javascript	1414	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	1	1	0	1	0	0
+15090	 text/javascript	1426	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	1	1	0	1	0	0
+11286	 text/javascript	1506	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	0
+1165	 text/javascript	1424	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+3700	 text/javascript	693	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+4579	 text/javascript	1428	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+1213	 text/javascript	1443	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+88019	 text/javascript	1492	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+3027	 text/javascript	1478	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+70471	 text/javascript	698	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+24659	 text/javascript	1444	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+4862	 text/html; charset=UTF-8	988	0	0	1	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	1	1	0	1	1
+10757	 text/html; charset=UTF-8	1550	0	0	1	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+10757	 text/html; charset=UTF-8	1635	0	0	1	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+27411	 text/html; charset=UTF-8	1535	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+10696	 text/html; charset=UTF-8	1619	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+4859	 text/html; charset=UTF-8	1662	0	0	1	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	1	1	0	1	0
+11465	 text/html; charset=UTF-8	1391	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11548	 text/html; charset=UTF-8	1343	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11777	 text/html; charset=UTF-8	1439	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+4588	 text/html; charset=UTF-8	1387	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	2	1	0	1	0	1
+11950	 text/html; charset=UTF-8	1344	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+12460	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+15603	 text/html; charset=UTF-8	1351	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+13580	 text/html; charset=UTF-8	1455	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+12415	 text/html; charset=UTF-8	1346	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+12923	 text/html; charset=UTF-8	1445	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+13000	 text/html; charset=UTF-8	1414	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18521	 text/html; charset=UTF-8	1562	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+15182	 text/html; charset=UTF-8	1427	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+19213	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+19213	 text/html; charset=UTF-8	1456	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+19211	 text/html; charset=UTF-8	1454	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	3	1	0	1	0	1
+19213	 text/html; charset=UTF-8	1456	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+19213	 text/html; charset=UTF-8	1453	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+19211	 text/html; charset=UTF-8	1454	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+19213	 text/html; charset=UTF-8	1456	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+19214	 text/html; charset=UTF-8	1454	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+18520	 text/html; charset=UTF-8	1483	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18518	 text/html; charset=UTF-8	1481	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18520	 text/html; charset=UTF-8	1483	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18520	 text/html; charset=UTF-8	1480	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18520	 text/html; charset=UTF-8	1483	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18521	 text/html; charset=UTF-8	1481	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18519	 text/html; charset=UTF-8	1482	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+19502	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+19500	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+19502	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+19502	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+19500	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+19502	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+19503	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1547	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1544	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18553	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18556	 text/html; charset=UTF-8	1545	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	5	1	0	1	0	0
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+19501	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+18555	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+10782	 text/html; charset=UTF-8	1565	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+10428	 text/html; charset=UTF-8	1561	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	2	1	0	1	0	0
+17203	 text/html	1616	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	3	1	0	1	0	0
+14111	 text/html; charset=UTF-8	1340	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+14621	 text/html; charset=UTF-8	1433	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11290	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11417	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11400	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11313	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11215	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11350	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+20482	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+10250	 text/html; charset=UTF-8	1344	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+4815	 text/html; charset=UTF-8	1441	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+4597	 text/html; charset=UTF-8	1433	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+4597	 text/html; charset=UTF-8	1425	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	3	1	0	1	0	1
+4622	 text/html; charset=UTF-8	1437	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+4432	 text/html; charset=UTF-8	1566	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	3	1	0	1	0	0
+4815	 text/html; charset=UTF-8	1337	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	2	1	0	1	0	1
+9539	 text/html; charset=UTF-8	1586	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+13014	 text/html; charset=UTF-8	1347	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+13518	 text/html; charset=UTF-8	1586	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+13518	 text/html; charset=UTF-8	1408	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1559	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+11580	 text/html; charset=UTF-8	1424	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1450	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1422	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1422	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11580	 text/html; charset=UTF-8	1411	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11465	 text/html; charset=UTF-8	1369	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+35094	 text/html; charset=UTF-8	1510	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+20678	 text/html	1508	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+35116	 text/html; charset=UTF-8	2798	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+35416	 text/html; charset=UTF-8	2758	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+35415	 text/html; charset=UTF-8	2794	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+35415	 text/html; charset=UTF-8	2778	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+18732	 text/html	1532	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+11420	 text/html; charset=UTF-8	1379	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11673	 text/html; charset=UTF-8	1374	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11689	 text/html; charset=UTF-8	1382	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11673	 text/html; charset=UTF-8	1378	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11689	 text/html; charset=UTF-8	1382	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+14031	 text/html; charset=UTF-8	1413	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1387	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1422	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1412	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1412	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1412	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1412	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11581	 text/html; charset=UTF-8	1412	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+14421	 text/html; charset=UTF-8	1415	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+14421	 text/html; charset=UTF-8	1448	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+4776	 text/html; charset=UTF-8	1427	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+4776	 text/html; charset=UTF-8	1294	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+4776	 text/html; charset=UTF-8	1292	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+10905	 text/html; charset=UTF-8	1432	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+10905	 text/html; charset=UTF-8	1479	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+10905	 text/html; charset=UTF-8	1434	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+15501	 text/html; charset=UTF-8	1413	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+10759	 text/html; charset=UTF-8	1691	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	13	1	0	1	0	0
+21218	 text/html	1892	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	14	1	0	1	0	0
+10905	 text/html; charset=UTF-8	1615	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	14	1	0	1	0	1
+10905	 text/html; charset=UTF-8	1480	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	5	1	0	1	0	1
+10561	 text/html; charset=UTF-8	1373	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	3	1	0	1	0	1
+10905	 text/html; charset=UTF-8	1499	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	1
+10904	 text/html; charset=UTF-8	1462	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	1
+11982	 text/html; charset=UTF-8	1378	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+10831	 text/html; charset=UTF-8	1372	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+751	 text/xml;  charset=UTF-8	1371	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+746	 text/xml;  charset=UTF-8	1428	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+753	 text/xml;  charset=UTF-8	1397	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+749	 text/xml;  charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+865	 application/atom+xml; charset="UTF-8"	1432	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+781	 application/atom+xml; charset="UTF-8"	1415	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	1	1	0	1	0	0
+867	 application/atom+xml; charset="UTF-8"	1384	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+862	 application/atom+xml; charset="UTF-8"	1441	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+11704	 text/html; charset=UTF-8	1559	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+11704	 text/html; charset=UTF-8	1484	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	1
+4817	 text/html; charset=UTF-8	1586	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+11704	 text/html; charset=UTF-8	1424	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1423	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1419	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1422	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1418	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1431	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1421	0	0	1	0	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1420	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1426	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1423	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11704	 text/html; charset=UTF-8	1413	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+11465	 text/html; charset=UTF-8	1446	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+11465	 text/html; charset=UTF-8	1434	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+301	 text/html; charset=UTF-8	1521	0	0	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+331	 text/html; charset=UTF-8	1610	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+325	 text/html; charset=UTF-8	1788	0	1	1	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1	1
+317	 text/html	1430	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+3507	 text/html; charset=UTF-8	2022	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	4	1	0	1	0	0
+19816	 text/html; charset=UTF-8	2693	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+38697	 text/html; charset=UTF-8	2601	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+38085	 text/html; charset=UTF-8	2588	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18333	 text/html; charset=UTF-8	2329	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19602	 text/html; charset=UTF-8	2329	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19432	 text/html; charset=UTF-8	2791	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+38608	 text/html; charset=UTF-8	2571	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19432	 text/html; charset=UTF-8	2777	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19437	 text/html; charset=UTF-8	2782	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18443	 text/html; charset=UTF-8	4388	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18377	 text/html; charset=UTF-8	2519	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18060	 text/html; charset=UTF-8	4694	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18376	 text/html; charset=UTF-8	2496	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18382	 text/html; charset=UTF-8	2496	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18382	 text/html; charset=UTF-8	2496	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18063	 text/html; charset=UTF-8	4599	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18062	 text/html; charset=UTF-8	4598	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17333	 text/html; charset=UTF-8	2507	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16788	 text/html; charset=UTF-8	2328	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18443	 text/html; charset=UTF-8	4383	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18377	 text/html; charset=UTF-8	2496	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18519	 text/html; charset=UTF-8	4438	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+28396	 text/html; charset=UTF-8	2553	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18577	 text/html; charset=UTF-8	2510	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18095	 text/html; charset=UTF-8	2373	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18473	 text/html; charset=UTF-8	2466	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18582	 text/html; charset=UTF-8	2493	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19053	 text/html; charset=UTF-8	2374	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18059	 text/html; charset=UTF-8	2359	0	0	1	1	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17922	 text/html; charset=UTF-8	2302	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+25242	 text/html; charset=UTF-8	2805	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19518	 text/html; charset=UTF-8	2485	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19161	 text/html; charset=UTF-8	2431	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+23778	 text/html; charset=UTF-8	2290	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+25247	 text/html; charset=UTF-8	2789	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+20192	 text/html; charset=UTF-8	2461	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19161	 text/html; charset=UTF-8	2472	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23460	 text/html; charset=UTF-8	2403	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19325	 text/html; charset=UTF-8	2489	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18954	 text/html; charset=UTF-8	2434	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15335	 text/html; charset=UTF-8	2330	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+23459	 text/html; charset=UTF-8	2377	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+20056	 text/html; charset=UTF-8	2464	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18954	 text/html; charset=UTF-8	2475	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15335	 text/html; charset=UTF-8	2330	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18454	 text/html; charset=UTF-8	2417	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19586	 text/html; charset=UTF-8	2499	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19088	 text/html; charset=UTF-8	2441	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+14810	 text/html; charset=UTF-8	2333	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18452	 text/html; charset=UTF-8	2387	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+20320	 text/html; charset=UTF-8	2471	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19088	 text/html; charset=UTF-8	2482	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+14810	 text/html; charset=UTF-8	2333	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+24986	 text/html; charset=UTF-8	2403	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+22935	 text/html; charset=UTF-8	2488	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+22564	 text/html; charset=UTF-8	2433	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+14821	 text/html; charset=UTF-8	2330	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+24985	 text/html; charset=UTF-8	2377	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23901	 text/html; charset=UTF-8	2463	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+22564	 text/html; charset=UTF-8	2474	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+14821	 text/html; charset=UTF-8	2330	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+25297	 text/html; charset=UTF-8	2915	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18889	 text/html; charset=UTF-8	2633	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18605	 text/html; charset=UTF-8	2574	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+21314	 text/html; charset=UTF-8	2280	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+25297	 text/html; charset=UTF-8	2886	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+20375	 text/html; charset=UTF-8	2604	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18605	 text/html; charset=UTF-8	2615	0	0	1	1	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+25158	 text/html; charset=UTF-8	2311	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17119	 text/html; charset=UTF-8	2615	0	0	1	1	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19656	 text/html; charset=UTF-8	4041	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+22067	 text/html; charset=UTF-8	2521	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+21908	 text/html; charset=UTF-8	2466	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17819	 text/html; charset=UTF-8	2291	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19656	 text/html; charset=UTF-8	4001	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23177	 text/html; charset=UTF-8	2496	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+21908	 text/html; charset=UTF-8	2507	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16025	 text/html; charset=UTF-8	2352	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+14732	 text/html; charset=UTF-8	2312	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+16026	 text/html; charset=UTF-8	2331	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+13615	 text/html; charset=UTF-8	2291	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+27823	 text/html; charset=UTF-8	3043	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+52869	 text/html; charset=UTF-8	2562	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+51363	 text/html; charset=UTF-8	2508	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+28968	 text/html; charset=UTF-8	2333	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+27817	 text/html; charset=UTF-8	2983	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+52841	 text/html; charset=UTF-8	2538	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+27817	 text/html; charset=UTF-8	3087	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+52861	 text/html; charset=UTF-8	2538	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+30558	 text/html; charset=UTF-8	2363	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+51365	 text/html; charset=UTF-8	2799	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+28968	 text/html; charset=UTF-8	2333	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+51423	 text/html; charset=UTF-8	2550	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+28968	 text/html; charset=UTF-8	2303	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17532	 text/html; charset=UTF-8	2477	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+25218	 text/html; charset=UTF-8	2494	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17532	 text/html; charset=UTF-8	2537	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17532	 text/html; charset=UTF-8	2537	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+20805	 text/html; charset=UTF-8	2684	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+24794	 text/html; charset=UTF-8	2694	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16132	 text/html; charset=UTF-8	2292	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+35668	 text/html; charset=UTF-8	5974	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+34333	 text/html; charset=UTF-8	2613	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+29936	 text/html; charset=UTF-8	2870	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+34075	 text/html; charset=UTF-8	2291	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+35771	 text/html; charset=UTF-8	5921	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+31755	 text/html; charset=UTF-8	2589	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+32841	 text/html; charset=UTF-8	2911	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23259	 text/html; charset=UTF-8	2514	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16391	 text/html; charset=UTF-8	2497	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+16231	 text/html; charset=UTF-8	2440	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+21838	 text/html; charset=UTF-8	2294	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+23259	 text/html; charset=UTF-8	2487	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17160	 text/html; charset=UTF-8	2470	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16231	 text/html; charset=UTF-8	2481	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+22566	 text/html; charset=UTF-8	3059	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+24480	 text/html; charset=UTF-8	2655	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+24482	 text/html; charset=UTF-8	2634	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15166	 text/html; charset=UTF-8	2305	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+24483	 text/html; charset=UTF-8	2634	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19343	 text/html; charset=UTF-8	2306	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19546	 text/html; charset=UTF-8	2905	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19550	 text/html; charset=UTF-8	2969	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+24483	 text/html; charset=UTF-8	2634	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17061	 text/html; charset=UTF-8	2306	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+24483	 text/html; charset=UTF-8	2634	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+14432	 text/html; charset=UTF-8	2306	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+24482	 text/html; charset=UTF-8	2634	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18579	 text/html; charset=UTF-8	2305	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+22427	 text/html; charset=UTF-8	2303	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+23846	 text/html; charset=UTF-8	2604	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+21084	 text/html; charset=UTF-8	2272	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+22559	 text/html; charset=UTF-8	3030	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+26329	 text/html; charset=UTF-8	2634	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+25679	 text/html; charset=UTF-8	2645	0	0	1	1	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16547	 text/html; charset=UTF-8	2389	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23584	 text/html; charset=UTF-8	2488	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23247	 text/html; charset=UTF-8	2432	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15148	 text/html; charset=UTF-8	2277	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+16548	 text/html; charset=UTF-8	2364	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23560	 text/html; charset=UTF-8	2462	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+23024	 text/html; charset=UTF-8	2682	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23509	 text/html; charset=UTF-8	2637	0	1	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+24116	 text/html; charset=UTF-8	2334	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23507	 text/html; charset=UTF-8	2609	0	1	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+14935	 text/html; charset=UTF-8	2306	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15055	 text/html; charset=UTF-8	2422	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15055	 text/html; charset=UTF-8	2424	0	0	1	1	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15103	 text/html; charset=UTF-8	2448	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+14935	 text/html; charset=UTF-8	2491	0	0	1	1	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15899	 text/html; charset=UTF-8	2448	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15982	 text/html; charset=UTF-8	3906	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	1	0	0	0	1	0	0	1	1
+23509	 text/html; charset=UTF-8	2609	0	1	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+21094	 text/html; charset=UTF-8	2620	0	1	1	1	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16270	 text/html; charset=UTF-8	2277	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+1720	 text/html; charset=UTF-8	2316	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17728	 text/html; charset=UTF-8	2533	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18329	 text/html; charset=UTF-8	2520	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17742	 text/html; charset=UTF-8	2660	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17742	 text/html; charset=UTF-8	2675	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18091	 text/html; charset=UTF-8	2469	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+16262	 text/html; charset=UTF-8	2300	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17735	 text/html; charset=UTF-8	2486	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19265	 text/html; charset=UTF-8	2499	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18091	 text/html; charset=UTF-8	2510	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15827	 text/html; charset=UTF-8	2514	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16816	 text/html; charset=UTF-8	2516	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16317	 text/html; charset=UTF-8	2459	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15583	 text/html; charset=UTF-8	2326	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15827	 text/html; charset=UTF-8	2487	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17429	 text/html; charset=UTF-8	2489	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16317	 text/html; charset=UTF-8	2500	0	0	1	1	1	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17475	 text/html; charset=UTF-8	2510	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18414	 text/html; charset=UTF-8	2566	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18251	 text/html; charset=UTF-8	2509	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+16200	 text/html; charset=UTF-8	2340	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17475	 text/html; charset=UTF-8	2483	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19365	 text/html; charset=UTF-8	2539	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18251	 text/html; charset=UTF-8	2550	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+26707	 text/html; charset=UTF-8	2717	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+31719	 text/html; charset=UTF-8	2577	0	0	1	0	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23771	 text/html; charset=UTF-8	2777	0	0	1	1	1	0	0	1	0	1	1	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+25467	 text/html; charset=UTF-8	2370	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17882	 text/html; charset=UTF-8	4268	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+29697	 text/html; charset=UTF-8	2589	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+29124	 text/html; charset=UTF-8	2576	0	0	1	1	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16842	 text/html; charset=UTF-8	2365	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15853	 text/html; charset=UTF-8	2561	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16094	 text/html; charset=UTF-8	2563	0	0	1	0	1	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15309	 text/html; charset=UTF-8	2548	0	0	1	1	1	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15441	 text/html; charset=UTF-8	2398	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15853	 text/html; charset=UTF-8	2591	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+16091	 text/html; charset=UTF-8	2593	0	0	1	0	1	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15854	 text/html; charset=UTF-8	2626	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17881	 text/html; charset=UTF-8	4345	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+24006	 text/html; charset=UTF-8	2779	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17884	 text/html; charset=UTF-8	4540	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+29699	 text/html; charset=UTF-8	2835	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17336	 text/html; charset=UTF-8	2502	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17478	 text/html; charset=UTF-8	2728	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+15688	 text/html; charset=UTF-8	2502	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+15830	 text/html; charset=UTF-8	2669	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17603	 text/html; charset=UTF-8	2490	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17745	 text/html; charset=UTF-8	2816	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+1882	 text/html; charset=UTF-8	2465	0	0	1	0	1	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+22571	 text/html; charset=UTF-8	3313	0	1	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+22227	 text/html; charset=UTF-8	2767	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+16409	 text/html; charset=UTF-8	2485	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+16551	 text/html; charset=UTF-8	2604	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+22573	 text/html; charset=UTF-8	3315	0	1	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+27609	 text/html; charset=UTF-8	2508	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+27829	 text/html; charset=UTF-8	3246	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+25246	 text/html; charset=UTF-8	2775	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17400	 text/html; charset=UTF-8	2500	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+25249	 text/html; charset=UTF-8	2619	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17398	 text/html; charset=UTF-8	2474	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17539	 text/html; charset=UTF-8	2734	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17539	 text/html; charset=UTF-8	2734	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+30717	 text/html; charset=UTF-8	2929	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+35529	 text/html; charset=UTF-8	2498	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+35671	 text/html; charset=UTF-8	6369	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23120	 text/html; charset=UTF-8	2502	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+23262	 text/html; charset=UTF-8	2718	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+1871	 text/html; charset=UTF-8	2490	0	0	1	0	1	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+25103	 text/html; charset=UTF-8	2496	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+25243	 text/html; charset=UTF-8	3019	0	1	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+23321	 text/html; charset=UTF-8	2506	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+23463	 text/html; charset=UTF-8	3054	0	1	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18315	 text/html; charset=UTF-8	2512	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18457	 text/html; charset=UTF-8	2793	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+24847	 text/html; charset=UTF-8	2506	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+24989	 text/html; charset=UTF-8	3000	0	1	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19517	 text/html; charset=UTF-8	2498	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19659	 text/html; charset=UTF-8	4462	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19881	 text/html; charset=UTF-8	2945	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18285	 text/html; charset=UTF-8	2502	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18503	 text/html; charset=UTF-8	4842	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+25030	 text/html; charset=UTF-8	2839	0	0	1	0	1	0	0	1	0	1	1	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18361	 text/html; charset=UTF-8	2514	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18578	 text/html; charset=UTF-8	4885	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18326	 text/html; charset=UTF-8	2478	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18606	 text/html; charset=UTF-8	2628	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18113	 text/html; charset=UTF-8	2503	0	0	1	0	1	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+28922	 text/html; charset=UTF-8	2200	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+22668	 text/html; charset=UTF-8	2418	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	14	1	0	1	0	0
+29696	 text/html; charset=UTF-8	2451	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+16842	 text/html; charset=UTF-8	2220	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+14724	 text/html; charset=UTF-8	2189	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+14965	 text/html; charset=UTF-8	2201	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+17300	 text/html; charset=UTF-8	2163	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+16200	 text/html; charset=UTF-8	2179	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+50372	 text/html; charset=UTF-8	2110	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+52834	 text/html; charset=UTF-8	2340	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	16	1	0	1	0	0
+52808	 text/html; charset=UTF-8	2589	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	16	1	0	1	0	0
+51898	 text/html; charset=UTF-8	2296	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+28968	 text/html; charset=UTF-8	2130	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+27977	 text/html; charset=UTF-8	2311	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+24580	 text/html; charset=UTF-8	2114	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+24580	 text/html; charset=UTF-8	2554	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	14	1	0	1	0	0
+19537	 text/html; charset=UTF-8	2424	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	14	1	0	1	0	0
+25250	 text/html; charset=UTF-8	2521	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+20837	 text/html; charset=UTF-8	2306	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+16132	 text/html; charset=UTF-8	2132	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+32713	 text/html; charset=UTF-8	2112	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+32069	 text/html; charset=UTF-8	2456	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+29164	 text/html; charset=UTF-8	2620	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+33594	 text/html; charset=UTF-8	2402	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+30717	 text/html; charset=UTF-8	2713	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+33703	 text/html; charset=UTF-8	2713	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+31755	 text/html; charset=UTF-8	2402	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+33972	 text/html; charset=UTF-8	2131	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+30517	 text/html; charset=UTF-8	2196	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+30489	 text/html; charset=UTF-8	2492	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	13	1	0	1	0	0
+30530	 text/html; charset=UTF-8	2492	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	13	1	0	1	0	0
+30626	 text/html; charset=UTF-8	2492	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	13	1	0	1	0	0
+30744	 text/html; charset=UTF-8	2492	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	13	1	0	1	0	0
+23095	 text/html; charset=UTF-8	2391	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	13	1	0	1	0	0
+31691	 text/html; charset=UTF-8	2383	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+31732	 text/html; charset=UTF-8	2595	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+25275	 text/html; charset=UTF-8	2595	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+25467	 text/html; charset=UTF-8	2210	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+36047	 text/html; charset=UTF-8	2110	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+38085	 text/html; charset=UTF-8	2362	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+38004	 text/html; charset=UTF-8	2633	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+35549	 text/html; charset=UTF-8	2634	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+38014	 text/html; charset=UTF-8	2633	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+37972	 text/html; charset=UTF-8	2633	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	18	1	0	1	0	0
+18333	 text/html; charset=UTF-8	2110	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+21597	 text/html; charset=UTF-8	2112	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+14821	 text/html; charset=UTF-8	2131	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+18344	 text/html; charset=UTF-8	2118	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+14810	 text/html; charset=UTF-8	2134	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+18218	 text/html; charset=UTF-8	2112	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+15335	 text/html; charset=UTF-8	2131	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+12305	 text/html; charset=UTF-8	2255	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	4	1	0	1	0	0
+20594	 text/html; charset=UTF-8	2257	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	4	1	0	1	0	0
+16993	 text/html; charset=UTF-8	2112	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+17922	 text/html; charset=UTF-8	2112	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+27476	 text/html; charset=UTF-8	2120	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+24082	 text/html; charset=UTF-8	2434	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	14	1	0	1	0	0
+28396	 text/html; charset=UTF-8	2619	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	16	1	0	1	0	0
+24957	 text/html; charset=UTF-8	2355	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	16	1	0	1	0	0
+11062	 text/html; charset=UTF-8	2156	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	6	1	0	1	0	0
+16862	 text/html; charset=UTF-8	2120	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+16529	 text/html; charset=UTF-8	2106	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+16041	 text/html; charset=UTF-8	2110	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+1380	 text/html; charset=UTF-8	2120	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	4	1	0	1	0	0
+2162	 text/html; charset=UTF-8	2136	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+14346	 text/html; charset=UTF-8	2134	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+19056	 text/html; charset=UTF-8	2139	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+17154	 text/html; charset=UTF-8	2123	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+16262	 text/html; charset=UTF-8	2140	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+15698	 text/html; charset=UTF-8	2154	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+15583	 text/html; charset=UTF-8	2165	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+22872	 text/html; charset=UTF-8	2112	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+21756	 text/html; charset=UTF-8	2143	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+16274	 text/html; charset=UTF-8	2132	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+24112	 text/html; charset=UTF-8	2162	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+18489	 text/html; charset=UTF-8	2116	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+23778	 text/html; charset=UTF-8	2130	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+17937	 text/html; charset=UTF-8	2241	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	6	1	0	1	0	0
+13196	 text/html; charset=UTF-8	2252	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	6	1	0	1	0	0
+15462	 text/html; charset=UTF-8	2116	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+21838	 text/html; charset=UTF-8	2133	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+16672	 text/html; charset=UTF-8	2112	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+30117	 text/html; charset=UTF-8	2112	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+15309	 text/html; charset=UTF-8	2235	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+15441	 text/html; charset=UTF-8	2235	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+13041	 text/html; charset=UTF-8	2251	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+20336	 text/html; charset=UTF-8	2251	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+15807	 text/html; charset=UTF-8	2104	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+13612	 text/html; charset=UTF-8	2104	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+13826	 text/html; charset=UTF-8	2257	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+16634	 text/html; charset=UTF-8	2257	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+22037	 text/html; charset=UTF-8	2110	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+24480	 text/html; charset=UTF-8	2293	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+21084	 text/html; charset=UTF-8	2110	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+22427	 text/html; charset=UTF-8	2293	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+22828	 text/html; charset=UTF-8	2114	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+21694	 text/html; charset=UTF-8	2421	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	14	1	0	1	0	0
+23560	 text/html; charset=UTF-8	2509	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+22672	 text/html; charset=UTF-8	2300	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	15	1	0	1	0	0
+15148	 text/html; charset=UTF-8	2114	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+17333	 text/html; charset=UTF-8	2108	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+16788	 text/html; charset=UTF-8	2108	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+12856	 text/html; charset=UTF-8	2159	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	1
+12856	 text/html; charset=UTF-8	2159	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	1
+17119	 text/html; charset=UTF-8	2120	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+21314	 text/html; charset=UTF-8	2120	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+20798	 text/html; charset=UTF-8	2118	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+17819	 text/html; charset=UTF-8	2118	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	5	1	0	1	0	0
+19432	 text/html; charset=UTF-8	2777	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19234	 text/html; charset=UTF-8	2353	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19218	 text/html; charset=UTF-8	2353	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+19218	 text/html; charset=UTF-8	2756	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+18060	 text/html; charset=UTF-8	4596	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18060	 text/html; charset=UTF-8	4577	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18060	 text/html; charset=UTF-8	4596	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+18063	 text/html; charset=UTF-8	4580	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+19057	 text/html; charset=UTF-8	2357	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+17849	 text/html; charset=UTF-8	2373	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17866	 text/html; charset=UTF-8	2358	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17866	 text/html; charset=UTF-8	2358	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17941	 text/html; charset=UTF-8	2358	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17849	 text/html; charset=UTF-8	2358	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+17849	 text/html; charset=UTF-8	4450	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	0
+1722	 text/html; charset=UTF-8	2200	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1740	 text/html; charset=UTF-8	2190	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1738	 text/html; charset=UTF-8	2174	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1712	 text/html; charset=UTF-8	2156	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1667	 text/html; charset=UTF-8	2123	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1670	 text/html; charset=UTF-8	2142	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1660	 text/html; charset=UTF-8	2124	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1632	 text/html; charset=UTF-8	2126	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1767	 text/html; charset=UTF-8	2219	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1671	 text/html; charset=UTF-8	2123	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1679	 text/html; charset=UTF-8	2127	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1660	 text/html; charset=UTF-8	2120	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1636	 text/html; charset=UTF-8	2122	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1662	 text/html; charset=UTF-8	2121	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1677	 text/html; charset=UTF-8	2120	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1634	 text/html; charset=UTF-8	2121	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1640	 text/html; charset=UTF-8	2124	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1634	 text/html; charset=UTF-8	2121	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1279	 text/html; charset=UTF-8	2273	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+17204	 text/html; charset=UTF-8	2273	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1679	 text/html; charset=UTF-8	2121	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+18799	 text/html; charset=UTF-8	2123	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+19252	 text/html; charset=UTF-8	2124	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+18810	 text/html; charset=UTF-8	2122	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1687	 text/html; charset=UTF-8	2125	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1675	 text/html; charset=UTF-8	2119	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+14142	 text/html; charset=UTF-8	2126	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1666	 text/html; charset=UTF-8	2123	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1688	 text/html; charset=UTF-8	2111	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1802	 text/html; charset=UTF-8	2231	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1729	 text/html; charset=UTF-8	2253	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+108409	 text/html	2244	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1669	 text/html; charset=UTF-8	2118	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1796	 text/html; charset=UTF-8	2261	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1681	 text/html; charset=UTF-8	2122	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1675	 text/html; charset=UTF-8	2119	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+1687	 text/html; charset=UTF-8	2125	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	3	1	0	1	0	0
+362	 text/html	2225	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	8	1	0	1	0	1
+362	 text/html	2193	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	8	1	0	1	0	1
+2767	 text/html	2236	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	12	1	0	1	0	0
+456	 text/html	2241	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	13	1	0	1	0	1
+362	 text/html	2191	0	0	1	0	0	1	0	1	0	1	0	0	1	1	0	1	0	0	0	0	8	1	0	1	0	1
+456	 text/html	2231	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	12	1	0	1	0	0
+5309	 text/html	2236	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	13	1	0	1	0	1
+795	 text/html	2248	0	0	1	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	0	0	1	0	0	1	1
+256	 text/html; charset=utf-8	1713	0	0	1	0	1	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+256	 text/html; charset=utf-8	1713	0	0	1	0	1	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+256	 text/html; charset=utf-8	1713	0	0	1	0	1	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	6	1	0	1	0	0
+1569	 text/html; charset=utf-8	1720	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+98802	 text/html; charset=utf-8	1653	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+94365	 text/html; charset=utf-8	1671	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+99266	 text/html; charset=utf-8	4299	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+99192	 text/html; charset=utf-8	4289	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+99050	 text/html; charset=utf-8	4299	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+99051	 text/html; charset=utf-8	4254	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+57073	 text/html; charset=utf-8	1651	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+52146	 text/html; charset=utf-8	1639	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+59392	 text/html; charset=utf-8	1682	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+65690	 text/html; charset=utf-8	1663	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+96813	 text/html; charset=utf-8	1697	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+68833	 text/html; charset=utf-8	1703	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+68461	 text/html; charset=utf-8	1657	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+64571	 text/html; charset=utf-8	1641	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+53229	 text/html; charset=utf-8	1642	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+80613	 text/html; charset=utf-8	1641	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+83787	 text/html; charset=utf-8	1653	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+3628	 text/html; charset=utf-8	1830	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+79587	 text/html; charset=utf-8	1656	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+67399	 text/html; charset=utf-8	1681	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+69257	 text/html; charset=utf-8	1672	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+72279	 text/html; charset=utf-8	1695	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+85886	 text/html; charset=utf-8	1695	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+70847	 text/html; charset=utf-8	1677	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+70848	 text/html; charset=utf-8	1695	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+69960	 text/html; charset=utf-8	1649	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+55583	 text/html; charset=utf-8	1651	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+63380	 text/html; charset=utf-8	1671	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+60621	 text/html; charset=utf-8	1647	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+80781	 text/html; charset=utf-8	1651	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+69099	 text/html; charset=utf-8	1654	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+51458	 text/html; charset=utf-8	1690	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+90471	 text/html; charset=utf-8	1663	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+81374	 text/html; charset=utf-8	1641	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+35480	 text/html; charset=utf-8	1929	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+35389	 text/html; charset=utf-8	1938	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+35386	 text/html; charset=utf-8	1941	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+48855	 text/html; charset=utf-8	1944	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+961	 text/html; charset=utf-8	1807	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+69311	 text/html; charset=utf-8	3743	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+69287	 text/html; charset=utf-8	3731	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+34407	 text/html; charset=utf-8	1694	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+95751	 text/html; charset=utf-8	1519	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0
+980	 text/html; charset=utf-8	1635	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+1070	 text/html; charset=utf-8	1755	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+1070	 text/html; charset=utf-8	1755	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+11669	 text/html; charset=utf-8	1752	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+11601	 text/html; charset=utf-8	1752	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+5648	 text/html; charset=utf-8	1755	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+5648	 text/html; charset=utf-8	1755	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+4875	 text/html; charset=utf-8	1753	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+4871	 text/html; charset=utf-8	1753	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+197	 text/html; charset=utf-8	1758	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+197	 text/html; charset=utf-8	1758	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+54411	 text/html; charset=utf-8	1642	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+55146	 text/html; charset=utf-8	1651	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+78523	 text/html; charset=utf-8	1671	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+75427	 text/html; charset=utf-8	1676	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+55424	 text/html; charset=utf-8	1648	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+62040	 text/html; charset=utf-8	1667	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+59363	 text/html; charset=utf-8	1659	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+106340	 text/html; charset=utf-8	1645	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+72050	 text/html; charset=utf-8	1654	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+66947	 text/html; charset=utf-8	1639	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+106535	 text/html; charset=utf-8	18293	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	0	0	0	0	0	0	1	0	0	1	1
+77095	 text/html; charset=utf-8	1647	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+138362	 text/html; charset=utf-8	1644	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+67853	 text/html; charset=utf-8	1666	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+103697	 text/html; charset=utf-8	1691	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	0
+94783	 text/html; charset=utf-8	1665	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+96402	 text/html; charset=utf-8	1645	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+86413	 text/html; charset=utf-8	1639	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+59369	 text/html; charset=utf-8	1643	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+104573	 text/html; charset=utf-8	1655	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+109924	 text/html; charset=utf-8	1675	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+89026	 text/html; charset=utf-8	1667	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+89477	 text/html; charset=utf-8	1675	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+104396	 text/html; charset=utf-8	1641	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+94014	 text/html; charset=utf-8	24393	0	1	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	1	0
+55339	 text/html; charset=utf-8	1638	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+244	 text/html; charset=utf-8	1700	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+244	 text/html; charset=utf-8	1700	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+254	 text/html; charset=utf-8	1705	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+252	 text/html; charset=utf-8	1705	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+259	 text/html; charset=utf-8	1716	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+245	 text/html; charset=utf-8	1701	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+262	 text/html; charset=utf-8	1709	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+242	 text/html; charset=utf-8	1709	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+242	 text/html; charset=utf-8	1706	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+242	 text/html; charset=utf-8	1714	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+254	 text/html; charset=utf-8	1701	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+250	 text/html; charset=utf-8	1702	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+250	 text/html; charset=utf-8	1709	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	0
+242	 text/html; charset=utf-8	1713	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+242	 text/html; charset=utf-8	1708	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+242	 text/html; charset=utf-8	1711	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+242	 text/html; charset=utf-8	1711	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+246	 text/html; charset=utf-8	1702	0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	7	1	0	1	0	1
+109058	 text/html; charset=utf-8	1654	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+64117	 text/html; charset=utf-8	1670	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+67599	 text/html; charset=utf-8	1675	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	4	1	0	1	0	1
+63939	 text/html; charset=utf-8	1671	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+103148	 text/html; charset=utf-8	1644	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+51984	 text/html; charset=utf-8	1644	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+76766	 text/html; charset=utf-8	1649	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+91580	 text/html; charset=utf-8	1671	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	0
+89970	 text/html; charset=utf-8	1663	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+1516	 text/html; charset=utf-8	1641	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	8	1	0	1	0	0
+1516	 text/html; charset=utf-8	1640	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	8	1	0	1	0	0
+1516	 text/html; charset=utf-8	1629	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	8	1	0	1	0	0
+1516	 text/html; charset=utf-8	1629	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	8	1	0	1	0	0
+1516	 text/html; charset=utf-8	1629	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	8	1	0	1	0	0
+1516	 text/html; charset=utf-8	1629	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	8	1	0	1	0	0
+1516	 text/html; charset=utf-8	1629	0	1	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	8	1	0	1	0	0
+527	 text/javascript	1687	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+527	 text/javascript	1687	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+527	 text/javascript	1687	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+527	 text/javascript	1687	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+6452	 text/javascript	1656	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+6452	 text/javascript	1656	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+6452	 text/javascript	1656	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+29401	 text/javascript	1692	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+29401	 text/javascript	1692	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+29401	 text/javascript	1692	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+29401	 text/javascript	1692	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+7961	 text/javascript	1692	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7961	 text/javascript	1692	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7961	 text/javascript	1692	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7961	 text/javascript	1692	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+188597	 text/javascript	1688	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+188597	 text/javascript	1688	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+188597	 text/javascript	1688	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+188597	 text/javascript	1688	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+22095	 text/javascript	1672	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+22095	 text/javascript	1672	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+22095	 text/javascript	1672	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+48927	 text/javascript	1657	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+48927	 text/javascript	1657	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+48927	 text/javascript	1657	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+48927	 text/javascript	1657	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+96673	 text/javascript	1666	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+96673	 text/javascript	1666	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+96673	 text/javascript	1666	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+96673	 text/javascript	1666	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+7489	 text/javascript	1673	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7489	 text/javascript	1673	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7489	 text/javascript	1673	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7489	 text/javascript	1673	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+7935	 text/javascript	1677	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7935	 text/javascript	1677	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7935	 text/javascript	1677	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+7935	 text/javascript	1677	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+23426	 text/javascript	1681	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+23426	 text/javascript	1681	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+23426	 text/javascript	1681	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+23426	 text/javascript	1681	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+6235	 text/javascript	1675	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+6235	 text/javascript	1675	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+6235	 text/javascript	1675	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+6235	 text/javascript	1675	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+3466	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+3466	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+3466	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+3466	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+40728	 text/javascript	1670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+40728	 text/javascript	1670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+40728	 text/javascript	1670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+40728	 text/javascript	1670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+2965	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2965	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2965	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+2965	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+49867	 text/javascript	1694	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+49867	 text/javascript	1694	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+49867	 text/javascript	1694	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+49867	 text/javascript	1694	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+4579	 text/javascript	1670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+4579	 text/javascript	1670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+4579	 text/javascript	1670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+4579	 text/javascript	1670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+36097	 text/javascript	1676	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+36097	 text/javascript	1676	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+36097	 text/javascript	1676	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+36097	 text/javascript	1676	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+3130	 text/javascript	1671	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+3130	 text/javascript	1671	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+3130	 text/javascript	1671	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+3130	 text/javascript	1671	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+10493	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+10493	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+10493	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+10493	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+6778	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+6778	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+6778	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+6778	 text/javascript	1672	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+300600	 text/javascript	1642	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1642	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1642	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1629	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1647	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1636	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1628	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1627	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1616	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1616	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1616	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1616	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1616	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+300600	 text/javascript	1626	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+19644	 text/javascript	1657	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+19644	 text/javascript	1657	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+19644	 text/javascript	1657	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+19644	 text/javascript	1657	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+146921	 text/javascript	1658	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+146921	 text/javascript	1658	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+146921	 text/javascript	1658	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0
+146921	 text/javascript	1658	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1
+287	 text/html; charset=utf-8	1699	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+308	 text/html; charset=utf-8	3321	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+276	 text/html; charset=utf-8	1655	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+281	 text/html; charset=utf-8	1831	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+295	 text/html; charset=utf-8	4670	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+295	 text/html; charset=utf-8	5009	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+292	 text/html; charset=utf-8	2826	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+294	 text/html; charset=utf-8	3735	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+292	 text/html; charset=utf-8	2918	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+290	 text/html; charset=utf-8	2956	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+288	 text/html; charset=utf-8	18424	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	0	0	0	0	0	0	1	0	0	1	0
+302	 text/html; charset=utf-8	3886	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1
+279	 text/html; charset=utf-8	1675	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+280	 text/html; charset=utf-8	1697	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+280	 text/html; charset=utf-8	1692	0	0	1	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+294	 text/html; charset=utf-8	4653	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+273	 text/html; charset=utf-8	1690	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	3	1	0	1	0	1
+226	 text/html; charset=utf-8	1659	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1
+438	 text/html; charset=utf-8	1640	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1	0	0
+77701	 text/html; charset=UTF-8	5580	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+544	 text/html; charset=UTF-8	5646	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	2	1	0	1	0	0
+742	 text/html; charset=UTF-8	5820	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	12	1	0	1	0	0
+405	 text/html; charset=UTF-8	5637	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+405	 text/html; charset=UTF-8	5637	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+419	 text/html; charset=UTF-8	5549	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	0
+536	 text/html; charset=UTF-8	1640	0	0	1	0	0	1	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+536	 text/html; charset=UTF-8	1631	0	0	1	0	0	1	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+646	 application/json; charset=UTF-8	1094	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1
+1479	 text/html; charset=UTF-8	992	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	3	1	0	1	0	1
+604	 application/json; charset=UTF-8	1161	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+590	 application/json; charset=UTF-8	1200	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+590	 application/json; charset=UTF-8	1201	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+590	 application/json; charset=UTF-8	1285	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+590	 application/json; charset=UTF-8	1147	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+590	 application/json; charset=UTF-8	1196	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+590	 application/json; charset=UTF-8	1177	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1
+590	 application/json; charset=UTF-8	1176	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+536	 text/html; charset=UTF-8	1118	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1
+536	 text/html; charset=UTF-8	1116	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1
+482	 text/html; charset=UTF-8	5600	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	4	1	0	1	0	0
+482	 text/html; charset=UTF-8	5600	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	4	1	0	1	0	0
+447	 text/html; charset=UTF-8	5573	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	2	1	0	1	0	0
+479	 text/html; charset=UTF-8	5597	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	4	1	0	1	0	0
+479	 text/html; charset=UTF-8	5597	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	4	1	0	1	0	0
+480	 text/html; charset=UTF-8	5598	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	4	1	0	1	0	0
+480	 text/html; charset=UTF-8	5598	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	4	1	0	1	0	0
+484	 text/html; charset=UTF-8	5602	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	4	1	0	1	0	0
+484	 text/html; charset=UTF-8	5602	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	4	1	0	1	0	0
+474	 text/html; charset=UTF-8	5613	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	3	1	0	1	0	0
+471	 text/html; charset=UTF-8	5610	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	3	1	0	1	0	0
+472	 text/html; charset=UTF-8	5611	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	3	1	0	1	0	0
+476	 text/html; charset=UTF-8	5615	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	3	1	0	1	0	0
+561	 text/html; charset=UTF-8	5680	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	2	1	0	1	0	0
+817	 text/html; charset=UTF-8	5888	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	14	1	0	1	0	0
+445	 text/html; charset=UTF-8	5575	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	1	0	0
+450	 text/html; charset=UTF-8	5580	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	1	0	0
+460	 text/html; charset=UTF-8	5586	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	2	1	0	1	0	0
+451	 text/html; charset=UTF-8	5581	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	1	0	0
+446	 text/html; charset=UTF-8	5576	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	1	0	0
+447	 text/html; charset=UTF-8	5577	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	1	0	0
+463	 text/html; charset=UTF-8	5606	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	2	1	0	1	0	0
+461	 text/html; charset=UTF-8	5604	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	2	1	0	1	0	0
+464	 text/html; charset=UTF-8	5607	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	2	1	0	1	0	0
+458	 text/html; charset=UTF-8	5592	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	2	1	0	1	0	0
+440	 text/html; charset=UTF-8	5820	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+484	 text/html; charset=UTF-8	5624	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	3	1	0	1	0	0
+513	 text/html; charset=UTF-8	5641	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+513	 text/html; charset=UTF-8	5641	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+492	 text/html; charset=UTF-8	5632	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	3	1	0	1	0	0
+500	 text/html; charset=UTF-8	5640	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	3	1	0	1	0	0
+505	 text/html; charset=UTF-8	5633	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+508	 text/html; charset=UTF-8	5636	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+511	 text/html; charset=UTF-8	5639	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+511	 text/html; charset=UTF-8	5639	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	4	1	0	1	0	0
+440	 text/html; charset=UTF-8	5588	0	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	1	1	0	1	0	0
+429	 text/html; charset=UTF-8	5569	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	0
+429	 text/html; charset=UTF-8	5569	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	0
+417	 text/html; charset=UTF-8	5944	1	1	1	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	1	0	0	1	0
+630	 text/html; charset=UTF-8	5721	0	1	1	0	0	0	0	1	0	0	1	1	0	1	0	1	0	0	0	0	9	1	0	1	0	0
+631	 text/html; charset=UTF-8	5722	0	1	1	0	0	0	0	1	0	0	1	1	0	1	0	1	0	0	0	0	9	1	0	1	0	0
+446	 text/html; charset=UTF-8	5581	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	2	1	0	1	0	0
+447	 text/html; charset=UTF-8	5582	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	2	1	0	1	0	0
+437	 text/html; charset=UTF-8	5576	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	0
+414	 text/html; charset=UTF-8	5796	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	0
+2860	 text/html; charset=UTF-8	5789	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1	0
+2854	 text/html; charset=UTF-8	5761	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1	0
+3589	 text/javascript	5687	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+4074	 text/javascript	5571	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+1312	 text/javascript	711	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+24431	 text/javascript	718	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+9299	 text/javascript	5572	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+3270	 text/javascript	5589	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	1	0	0
+8142	 text/javascript	724	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+2647	 text/javascript	5586	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+5786	 text/javascript	744	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+5904	 text/javascript	740	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+1397	 text/javascript	739	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+21319	 text/javascript	750	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+792349	 text/javascript	747	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+841132	 text/javascript	748	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+2689	 text/javascript	769	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+171076	 text/javascript	741	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+48007	 text/javascript	743	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+712029	 text/javascript	745	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+37321	 text/javascript	742	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+8576	 text/javascript	748	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+61418	 text/javascript	744	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+27184	 text/javascript	739	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+783721	 text/javascript	5586	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+972	 text/javascript	730	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+745	 text/javascript	729	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+12778	 text/javascript	738	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+93414	 text/javascript	766	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+636180	 text/javascript	744	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+203470	 text/javascript	741	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+12269	 text/javascript	742	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+1289	 text/javascript	746	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+23539	 text/javascript	749	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+1076	 text/javascript	748	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+9431	 text/javascript	5653	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	2	1	0	1	0	0
+35376	 text/javascript	5686	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+1307	 text/javascript	751	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+4262	 text/javascript	753	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+2931	 text/javascript	743	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+7652	 text/javascript	746	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+2359	 text/javascript	742	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+16151	 text/javascript	743	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+4467	 text/javascript	742	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+5867	 text/javascript	758	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+7418	 text/javascript	746	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+2519	 text/javascript	745	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+3667	 text/javascript	749	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+3061	 text/javascript	747	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+9190	 text/javascript	748	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+6747	 text/javascript	750	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+31289	 text/javascript	744	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+4607	 text/javascript	741	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+4734	 text/javascript	753	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+3189	 text/javascript	744	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+6478	 text/javascript	747	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+1553	 text/javascript	745	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+8506	 text/javascript	5585	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+58216	 text/javascript	5581	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+129690	 text/javascript	737	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+10900	 text/javascript	733	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+27451	 text/javascript	5701	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+2157	 text/javascript	743	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+599	 text/javascript	742	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+21329	 text/javascript	742	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+2769	 text/javascript	744	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1
+6303	 text/javascript	5571	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+2007	 text/javascript	5576	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+10060	 text/javascript	744	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+7337	 text/javascript	5581	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+3983	 text/javascript	5577	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+8756	 text/javascript	5585	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+21729	 text/javascript	5577	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+10405	 text/javascript	5577	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+3691	 text/javascript	5578	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+25740	 text/javascript	5581	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+3432	 text/javascript	5582	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+10060	 text/javascript	718	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+12349	 text/javascript	726	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+11176	 text/javascript	722	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+13551	 text/javascript	720	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+13579	 text/javascript	722	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+39266	 text/html; charset=utf-8	622	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+37283	 text/html; charset=utf-8	622	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+55549	 text/html; charset=utf-8	629	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+55652	 text/html; charset=utf-8	643	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	1
+38278	 text/html; charset=utf-8	619	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+38517	 text/html; charset=utf-8	622	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+36825	 text/html; charset=utf-8	618	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	1
+34078	 text/html; charset=utf-8	621	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	1	0	0
+37544	 text/html; charset=utf-8	623	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+36498	 text/html; charset=utf-8	627	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+63964	 text/html; charset=utf-8	592	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+41251	 text/html; charset=utf-8	621	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	1
+34993	 text/html; charset=utf-8	624	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+3041	 text/html; charset=utf-8	608	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	1	0	1	0	1
+3021	 text/html; charset=utf-8	595	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	1	0	1	0	1
+309	 text/html; charset=utf-8	559	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+63405	 text/html; charset=utf-8	618	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+68960	 text/html; charset=utf-8	617	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	1
+871	 text/html; charset=utf-8	772	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+798	 text/html; charset=utf-8	793	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+349	 text/html; charset=utf-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	629	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	629	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	629	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	629	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	629	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	629	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	629	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	629	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	605	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	628	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+349	 text/html; charset=utf-8	605	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+349	 text/html; charset=utf-8	628	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	1
+1736	 text/html; charset=utf-8	585	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+2379	 text/html; charset=utf-8	585	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+387	 text/html; charset=utf-8	2276	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	1	1
+387	 text/html; charset=utf-8	2284	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	1	1
+387	 text/html; charset=utf-8	1429	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+389	 text/html; charset=utf-8	1087	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	1	1
+387	 text/html; charset=utf-8	1218	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+385	 text/html; charset=utf-8	1072	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+385	 text/html; charset=utf-8	1193	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+389	 text/html; charset=utf-8	1081	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+388	 text/html; charset=utf-8	621	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	1	1	0	1	0	1
+385	 text/html; charset=utf-8	622	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	1
+735	 text/html; charset=UTF-8	525	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	1	0	1	0	0
+26933	 text/html; charset=UTF-8	591	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21704	 text/html; charset=UTF-8	962	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+27087	 text/html; charset=UTF-8	612	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+23369	 text/html; charset=UTF-8	596	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21640	 text/html; charset=UTF-8	1007	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+22794	 text/html; charset=UTF-8	624	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+23666	 text/html; charset=UTF-8	608	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21651	 text/html; charset=UTF-8	794	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+10615	 text/xml	709	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+26224	 text/html; charset=UTF-8	590	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21713	 text/html; charset=UTF-8	938	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+26454	 text/html; charset=UTF-8	616	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+23597	 text/html; charset=UTF-8	526	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	1	0	0
+21646	 text/html; charset=UTF-8	988	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+3120	 text/xml	704	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+526271	 text/html; charset=UTF-8	611	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+6366	 text/html; charset=UTF-8	622	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+23773	 text/html; charset=UTF-8	592	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	1	0	1	0	0
+27333	 text/html; charset=UTF-8	623	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+36416	 text/html; charset=UTF-8	561	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+24890	 text/html; charset=UTF-8	596	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+400	 text/html; charset=UTF-8	574	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	1	0	1	0	0
+32715	 text/html; charset=UTF-8	534	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	0	1	0	0
+21633	 text/html; charset=UTF-8	1230	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+21633	 text/html; charset=UTF-8	958	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+21633	 text/html; charset=UTF-8	1052	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+4369	 text/xml	666	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+22099	 text/html; charset=UTF-8	609	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	1	0	1	0	0
+23520	 text/html; charset=UTF-8	566	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+22843	 text/html; charset=UTF-8	603	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	1	0	1	0	0
+23144	 text/html; charset=UTF-8	624	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	4	1	0	1	0	0
+23523	 text/html; charset=UTF-8	604	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	1	0	1	0	0
+21668	 text/html; charset=UTF-8	802	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	1
+21668	 text/html; charset=UTF-8	805	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	1	0	0	1	1
+1608	 text/xml	732	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	0
+24057	 text/html; charset=UTF-8	525	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	0	0	1	0	0
+24638	 text/html; charset=UTF-8	635	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	4	1	0	1	0	0
+24645	 text/html; charset=UTF-8	612	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	3	1	0	1	0	0
+21635	 text/html; charset=UTF-8	844	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	1
+21635	 text/html; charset=UTF-8	829	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	1
+21635	 text/html; charset=UTF-8	840	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	1
+872	 text/xml	706	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	0
+27155	 text/html; charset=UTF-8	599	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+27977	 text/html; charset=UTF-8	620	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+23827	 text/html; charset=UTF-8	600	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21664	 text/html; charset=UTF-8	992	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	1	0	0	1	1
+21664	 text/html; charset=UTF-8	1050	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0	1	0	0	1	1
+2814	 text/xml	732	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+24719	 text/html; charset=UTF-8	593	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21647	 text/html; charset=UTF-8	842	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+24528	 text/html; charset=UTF-8	614	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+23100	 text/html; charset=UTF-8	592	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21642	 text/html; charset=UTF-8	901	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+3051	 text/xml	707	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+21026	 text/html; charset=UTF-8	599	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21026	 text/html; charset=UTF-8	747	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+24899	 text/html; charset=UTF-8	594	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+18733	 text/html; charset=UTF-8	606	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+18733	 text/html; charset=UTF-8	611	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+18733	 text/html; charset=UTF-8	613	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+32329	 text/html; charset=UTF-8	610	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+18733	 text/html; charset=UTF-8	615	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+18733	 text/html; charset=UTF-8	607	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	1	0	1	0	0
+18733	 text/html; charset=UTF-8	603	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+24690	 text/html; charset=UTF-8	601	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+23025	 text/html; charset=UTF-8	595	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21656	 text/html; charset=UTF-8	800	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+23652	 text/html; charset=UTF-8	616	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4	1	0	1	0	0
+23649	 text/html; charset=UTF-8	602	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21637	 text/html; charset=UTF-8	835	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+3525	 text/xml	726	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+23434	 text/html; charset=UTF-8	585	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+21693	 text/html; charset=UTF-8	798	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+21693	 text/html; charset=UTF-8	770	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1
+23351	 text/html; charset=UTF-8	591	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	1	0	0
+978	 text/xml	695	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
